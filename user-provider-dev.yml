@@ -19,5 +19,5 @@ eureka:
     ip-address: 127.0.0.1
     #访问服务的时候，推荐使用IP
     prefer-ip-address: true
-test：
+test:
   message: hello Lexus!
